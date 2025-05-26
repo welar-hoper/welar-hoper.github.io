@@ -3,15 +3,15 @@ title: BLOG
 toc: false
 ---
 
-This is the landing page.
+个人笔记网站
 
-## Explore
+## 探索
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="docs" title="文档" icon="book-open" >}}
+  {{< card link="about" title="关于" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
+## 文档
 
 For more information, visit [Hextra](https://imfing.github.io/hextra).
