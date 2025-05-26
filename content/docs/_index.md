@@ -1,5 +1,5 @@
 ---
-title: 文档
+title: 笔记
 next: first-page
 ---
 

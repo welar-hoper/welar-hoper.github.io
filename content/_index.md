@@ -3,12 +3,12 @@ title: BLOG
 toc: false
 ---
 
-个人笔记网站
+个人博客网站
 
 ## 探索
 
 {{< cards >}}
-  {{< card link="docs" title="文档" icon="book-open" >}}
+  {{< card link="docs" title="笔记" icon="book-open" >}}
   {{< card link="about" title="关于" icon="user" >}}
 {{< /cards >}}
 
