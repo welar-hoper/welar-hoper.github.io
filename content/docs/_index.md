@@ -3,7 +3,7 @@ title: 笔记
 next: first-page
 ---
 
-This is a demo of the theme's documentation layout.
+这是本人大学期间的课程笔记
 
 ## Hello, World!
 
