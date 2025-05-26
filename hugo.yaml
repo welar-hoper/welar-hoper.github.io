@@ -25,7 +25,7 @@ menu:
       pageRef: /about
       weight: 2
     - name: 联系我们 ↗
-      url: "https://github.com/imfing"
+      url: "https://github.com/hoper33"
       weight: 3
     - name: 搜索
       weight: 4
@@ -33,7 +33,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/hoper33/hoper33.github.io"
       params:
         icon: github
     - name: Twitter
