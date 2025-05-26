@@ -18,16 +18,16 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: 文档
       pageRef: /docs
       weight: 1
-    - name: About
+    - name: 关于
       pageRef: /about
       weight: 2
-    - name: Contact ↗
+    - name: 联系我们 ↗
       url: "https://github.com/imfing"
       weight: 3
-    - name: Search
+    - name: 搜索
       weight: 4
       params:
         type: search
