@@ -1,5 +1,5 @@
 ---
-title: BLOG
+title: WELAR BLOG
 toc: false
 ---
 
@@ -12,6 +12,3 @@ toc: false
   {{< card link="about" title="关于" icon="user" >}}
 {{< /cards >}}
 
-## 文档
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
