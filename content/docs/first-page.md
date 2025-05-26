@@ -5,5 +5,5 @@ prev: /
 next: docs/folder/
 ---
 
-A simple demo page.
+这是一个测试页面
 
