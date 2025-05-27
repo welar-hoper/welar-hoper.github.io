@@ -1,6 +1,6 @@
 ---
 title: 笔记
-next: first-page
+next: 2024年春季学期
 ---
 
 这是本人大学期间的课程笔记
