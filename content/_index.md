@@ -9,6 +9,7 @@ toc: false
 
 {{< cards >}}
   {{< card link="docs" title="笔记" icon="book-open" >}}
+  ![](notes.png)
   {{< card link="about" title="关于" icon="user" >}}
 {{< /cards >}}
 
