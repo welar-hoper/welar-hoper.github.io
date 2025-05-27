@@ -4,7 +4,7 @@ toc: false
 ---
 <style> h1 { border-bottom: none } </style>
 
-<h1>个人博客网站</h1>
+<h1 align="left">个人博客网站</h1>
 
 ## 探索
 
