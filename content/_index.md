@@ -2,8 +2,9 @@
 title: WELAR BLOG
 toc: false
 ---
+<style> h1 { border-bottom: none } </style>
 
-个人博客网站
+<h1>个人博客网站</h1>
 
 ## 探索
 
