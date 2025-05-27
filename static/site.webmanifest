@@ -35,7 +35,7 @@
     {
       "src": "/favicon.svg",
       "type": "image/svg+xml",
-      "sizes": "48x48"
+      "sizes": "512x512"
     }
   ],
   "display": "standalone",
