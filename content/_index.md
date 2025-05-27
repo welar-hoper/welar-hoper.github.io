@@ -7,7 +7,7 @@ toc: false
 
 ## 探索
 
-{{< cards >}}
+{{< cards cols="1" >}}
   {{< card link="docs" title="笔记" icon="book-open" image="notes.png">}}
   {{< card link="about" title="关于" icon="user" >}}
 {{< /cards >}}
