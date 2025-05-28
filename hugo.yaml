@@ -36,6 +36,11 @@ menu:
       url: "https://github.com/hoper33"
       params:
         icon: github
+    - name: bilibili
+      weight: 5
+      url: "https://b23.tv/O7EG5dT"
+      params:
+        icon: /images/bilibili-logo.png
 
 params:
   navbar:
