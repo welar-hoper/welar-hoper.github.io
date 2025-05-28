@@ -40,7 +40,7 @@ menu:
       weight: 5
       url: "https://b23.tv/O7EG5dT"
       params:
-        icon: /images/bilibili-logo.png
+        icon: images/bilibili-logo.png
 
 params:
   navbar:
