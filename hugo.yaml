@@ -18,7 +18,7 @@ markup:
 
 menu:
   main:
-    - name: 文档
+    - name: 笔记
       pageRef: /docs
       weight: 1
     - name: 关于
