@@ -29,12 +29,12 @@ menu:
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 4
       url: "https://github.com/welar-hoper"
       params:
         icon: github
     - name: bilibili
-      weight: 4
+      weight: 5
       url: "https://b23.tv/O7EG5dT"
       params:
         icon: bilibili
