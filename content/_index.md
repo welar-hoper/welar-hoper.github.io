@@ -3,9 +3,6 @@ title: WELAR BLOG
 toc: false
 ---
 <style> h1 { border-bottom: none } </style>
-
-<h1 align="left">个人博客网站</h1>
-
 ## 探索
 
 {{< cards cols="1" >}}
