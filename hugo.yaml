@@ -24,20 +24,17 @@ menu:
     - name: 关于
       pageRef: /about
       weight: 2
-    - name: 联系我们 ↗
-      url: "https://github.com/hoper33"
-      weight: 3
     - name: 搜索
-      weight: 4
+      weight: 3
       params:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/hoper33"
+      url: "https://github.com/welar-hoper"
       params:
         icon: github
     - name: bilibili
-      weight: 5
+      weight: 4
       url: "https://b23.tv/O7EG5dT"
       params:
         icon: bilibili
