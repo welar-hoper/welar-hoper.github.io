@@ -80,4 +80,6 @@ hugo mod tidy
 ```
 
 See [Update modules](https://gohugo.io/hugo-modules/use-modules/#update-modules) for more details.
+感谢dartnode提供支持：
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
